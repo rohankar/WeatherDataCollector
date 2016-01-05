@@ -2,8 +2,8 @@
 
 date_default_timezone_set('Asia/Kolkata');
 set_time_limit(0);
-$lat  = '12.912619';
-$long = '77.601519';
+$lat  = '';
+$long = '';
 $station_id;
 $station_long;
 $station_lat;
